@@ -1,2 +1,1 @@
-# PrepCourseJara
-Este es un repositorio de prueba del módulo2 PrepCourseJara
+Prueba de como crear un repositorio y clonarlo desde github a mi comoutadora 
